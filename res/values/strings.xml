@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">水印相机Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="quxiao">取消</string>
+    <string name="weizhi">位置</string>
+    <string name="me">我</string>
+    <string name="you">你</string>
+    <string name="c_0">好事连连，爽爆了</string>
+    <string name="c_1">这货太搞笑了！</string>
+    <string name="c_2">流口水了要~~~~</string>
+    <string name="c_3">您这狗肉多少一斤</string>
+    <string name="c_4">。。。。</string>
+    <string name="c_5">无聊到爆，谁来骚扰我呢</string>
+    <string name="c_6">今天可囧大了</string>
+    <string name="c_7">真心无语了</string>
+    <string name="c_8">居然把这事给忘了</string>
+    <string name="b_0">不吃辣不舒服斯基</string>
+    <string name="b_1">港式煲仔饭配叉烧才够味</string>
+    <string name="b_2">饭后享用甜品真是一大享受</string>
+    <string name="b_3">这家日料的食材很考究</string>
+    <string name="b_4">韩式料理才是我的最爱</string>
+    <string name="b_5">与友人小聚，火锅才是首选</string>
+    <string name="b_6">路边摊也是一种态度</string>
+    <string name="b_7">人不吃货枉少年</string>
+    <string name="a_0">感情深，一口闷</string>
+    <string name="a_1">五魁首啊，六六六啊</string>
+    <string name="a_2">玩骰子可是我的强项</string>
+    <string name="a_3">在一起，在一起</string>
+    <string name="a_4">静夜独酌，微醺</string>
+    <string name="a_5">一醉方休，畅快</string>
+    <string name="ttt">水印相机。铭记这一刻！</string>
+    <string name="sky">杭州天堂软件园</string>
+    <string name="_40_">40℃</string>
+    <string name="_duoyun">多云</string>
+    <string name="p_0">所有的爱都是甜蜜的，无论是给予的还是回报的，爱就像阳光一样无所不在。</string>
+    <string name="p_1">无论你犯了多少的错，或者你进步的有多慢，你都走在了那些不曾尝试的人的前面</string>
+    <string name="p_2">我还在这里，一直都在，可你却不知道我在等你</string>
+    <string name="p_3">有一个懂你的人，是最大的幸福</string>
+    <string name="p_4">生命中总有那么一段时光，充满不安，可是除了勇敢的面对，我们别无选择</string>
+    <string name="didian">地点</string>
+    <string name="shijan">时间</string>
+    <string name="shiwu">食物</string>
+    <string name="tianqi">天气</string>
+    <string name="xinqing">心情</string>
+    <string name="todo">TODO</string>
+    <string name="updatelocation">位置更新中....</string>
+</resources>

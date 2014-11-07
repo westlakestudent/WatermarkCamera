@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="HandlerLeak" severity="ignore" />
+    <issue id="InlinedApi">
+        <ignore path="src/com/myproject/MyProject.java" />
+    </issue>
+    <issue id="ShowToast" severity="ignore" />
+    <issue id="SimpleDateFormat" severity="ignore">
+        <ignore path="src/com/arcsoft/camera/watermark/ui/FreeGoTemplate.java" />
+        <ignore path="src/com/arcsoft/camera/watermark/ui/PoiTemplate.java" />
+    </issue>
+</lint>
