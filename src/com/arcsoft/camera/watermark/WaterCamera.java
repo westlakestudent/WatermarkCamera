@@ -183,6 +183,7 @@ public class WaterCamera extends Activity implements PictureCallback,
 				mCamera.setPreviewDisplay(holder);
 				mCamera.setDisplayOrientation(90);
 				parameters = mCamera.getParameters();
+				Log.d("params", parameters.flatten());
 				parameters.setFlashMode(Camera.Parameters.FLASH_MODE_AUTO);
 //				parameters.setPictureSize(1600, 1200);
 //				parameters.setPreviewSize(800, 480);
